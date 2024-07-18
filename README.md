@@ -1,0 +1,1 @@
+# imprimir-todo-nome-1a-char-ultimo-char-do-1a-ao-3a-4a-char-todos-menos-o-1a-os-2-ultimos
